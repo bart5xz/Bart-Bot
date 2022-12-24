@@ -1,0 +1,5 @@
+ReferenceError: interaction is not defined
+    at C:\Users\Otavio\Downloads\BartBotSource\BartBotSource\Commands\informações\bot.js:65:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.run (C:\Users\Otavio\Downloads\BartBotSource\BartBotSource\Commands\informações\bot.js:53:13)
+    at async Client.<anonymous> (C:\Users\Otavio\Downloads\BartBotSource\BartBotSource\Events\interactionCreate.js:44:3) 
